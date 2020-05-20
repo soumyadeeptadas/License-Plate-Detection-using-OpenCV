@@ -13,8 +13,8 @@ Output Screenshot
 
 Contributors:
 
--@ananya2407
--@ricksaha2000
--@AnmolTomer
--Ishita Dasgupta
--Gunjan Agrawal
+-[Ananya Sajwan](https://github.com/ananya2407)
+-[Jayit Saha](https://github.com/ricksaha2000)
+-[Anmol Tomer](https://github.com/AnmolTomer)
+-[Ishita Dasgupta]()
+-[Gunjan Agrawal](https://github.com/ananya2407)
