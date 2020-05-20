@@ -9,3 +9,12 @@ All explanations are available as comments in code
 
 Output Screenshot
 ![](https://github.com/soumyadeeptadas/License-Plate-Detection-using-OpenCV/blob/master/imgOriginalScene.png)
+
+
+Contributors:
+
+@ananya2407
+@ricksaha2000
+@AnmolTomer
+-Ishita Dasgupta
+-Gunjan Agrawal
