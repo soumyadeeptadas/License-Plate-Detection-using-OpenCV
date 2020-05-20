@@ -7,4 +7,5 @@ The images of vehicles are available in LicPlateImages folder
 
 All explanations are available as comments in code
 
+Output Screenshot
 ![](https://github.com/soumyadeeptadas/License-Plate-Detection-using-OpenCV/blob/master/imgOriginalScene.png)
