@@ -1,2 +1,9 @@
 # License-Plate-Detection-using-OpenCV
 Recognizes the number plate value of any vehicle from any picture of a vehicle where the plate is visible.
+
+Run the main.py file to execute the model
+
+The images of vehicles are available in LicPlateImages folder
+
+All explanations are available as comments in code
+
