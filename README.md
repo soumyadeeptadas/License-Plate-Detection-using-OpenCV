@@ -13,8 +13,8 @@ Output Screenshot
 
 Contributors:
 
-@ananya2407
-@ricksaha2000
-@AnmolTomer
+-@ananya2407
+-@ricksaha2000
+-@AnmolTomer
 -Ishita Dasgupta
 -Gunjan Agrawal
